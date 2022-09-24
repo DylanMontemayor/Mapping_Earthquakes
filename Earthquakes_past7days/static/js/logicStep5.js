@@ -134,7 +134,7 @@ legend.onAdd = function () {
       ];
 
     // loop through our density intervals and generate a label with a colored square for each interval
-    for (var i = 0; i < grades.length; i++) {
+    for (var i = 0; i < magnitudes.length; i++) {
       console.log(colors[i]);
         div.innerHTML +=
             '<i style="background:' + colors[i] + '"></i> ' +
