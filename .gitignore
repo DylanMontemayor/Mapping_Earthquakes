@@ -1,4 +1,5 @@
 config.js
+major_eq_starter_logic.js
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
