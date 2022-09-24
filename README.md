@@ -7,14 +7,8 @@ Through this project, we created an interactive map with d3, Mapbox, and leaflet
 ### Folders/Files
 
 Earthquake_Challenge: 
-
-​	index.html
-
-​	Static: 
-
-​			CSS: style.css
-
-​			js: challenge_logic.js
+1. index.html
+2. Static: CSS (style.css), js (challenge_logic.js)
 
 ## Results
 
